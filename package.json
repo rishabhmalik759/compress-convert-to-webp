@@ -1,0 +1,19 @@
+{
+  "name": "image-converter-compressor",
+  "version": "1.0.0",
+  "description": "Image Converter to Webp and Compressor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Malik",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-webp": "^4.0.1",
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^6.0.0"
+  }
+}
